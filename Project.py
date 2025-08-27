@@ -42,4 +42,4 @@ if pesan == 'Y' or 'y':
         print('\nTerima kasih telah berkunjung! :)')
 
 else:
-    print('\nTerima kasih telah berkunjung! :)')
+    print('\nSuwun telah berkunjung! :)')
